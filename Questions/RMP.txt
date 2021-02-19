@@ -1,6 +1,6 @@
 What does HTML stands for ?
 
-A) Hypertext Machine language.
+A) Hypertext Machine Language.
 B) Hypertext and Links Markup Language.
 C) Hypertext Markup Language.
 D) Hightext machine language.
