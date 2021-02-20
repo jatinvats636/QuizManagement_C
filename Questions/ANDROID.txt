@@ -3,7 +3,7 @@ Android Is Developed By ?
 A) Apple
 B) Microsoft
 C) Google
-D) Android Inc
+D) Android Inc.
 
 D) Android Inc
 Category: Basic
