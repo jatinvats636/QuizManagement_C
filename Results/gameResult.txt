@@ -1,0 +1,139 @@
+Q1) A previsualization tool used to outline and organize the sequence of events in a game ?
+Category: Basic
+ 
+You entered correct answer : A) Storyboard
+  
+1 mark for correct answer.
+
+#######################################################################################
+
+Q2) The use of more than one medium for conveying information. Combined music and sound make a multimedia presentation ?
+Category: Main
+ 
+You entered     : A) GUI
+Correct answer  : D) Multimedia
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q3) Which statement regarding methods is true ?
+Category: Main
+ 
+You entered correct answer : A) Methods are functions used within an object class.
+  
+1 mark for correct answer.
+
+#######################################################################################
+
+Q4) What is the first step in the game design process ?
+Category: Main
+ 
+You entered     : A) Create a prototype.
+Correct answer  : B) Brainstorm ideas.
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q5) The first video game consoles were sold in the late 1970s ?
+Category: Main
+ 
+You entered correct answer : A) True
+  
+1 mark for correct answer.
+
+#######################################################################################
+
+Q6) Which of the following converts a type to a byte value in C# ?
+Category: Main
+ 
+You entered     : A) ToSingle
+Correct answer  : B) ToByte
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q7) Which of the following statements is incorrect about delegate ?
+Category: Main
+ 
+You entered     : A) Delegates are reference types
+Correct answer  : D) Only one can be called using a delegate
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q8) What is the value returned by function compareTo( ) if the invoking string is less than the string compared ?
+Category: Main
+ 
+You entered     : A) Zero
+Correct answer  : B) A value of less than zero
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q9) An entity in our level can be controlled ?
+Category: Main
+ 
+You entered     : A) With an action assigned to it
+Correct answer  : D) All of the above
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q10) What must be written in the script for displaying the image "image.tga" on the screen, without additional code ?
+Category: Main
+ 
+You entered     : A) BMAP* image = "image.tga";
+Correct answer  : B) PANEL* p = { bmap = "image.tga"; flags = SHOW; }
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q11) Which of the following is the correct about interfaces in C# ?
+Category: Main
+ 
+You entered     : A) Interfaces are declared using the interface keyword
+Correct answer  : C) Both of the above
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q12) Category: Main
+Category: Main
+ 
+You entered     : Correct answer  : Category: Main
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q13) Category: Main
+Category: Main
+ 
+You entered     : Correct answer  : Category: Main
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+
+##################################
+# Your basic score :-
+#
+# 4 out of 3 in Basic
+#
+##################################
+# Your main score :-
+#
+# 4 out of 10 in Main
+#
+##################################
+
+
