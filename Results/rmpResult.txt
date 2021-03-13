@@ -1,0 +1,125 @@
+Q1) What does HTML stands for ?
+Category: Basic
+ 
+You entered correct answer : C) Hypertext Markup Language.
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q2) Which of the following HTML element is used for creating an unordered list?
+Category: Basic
+ 
+You entered correct answer : C) <ul>
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q3) Which of the following HTML Elements is used for making any text bold ?
+Category: Basic
+ 
+You entered correct answer : A) <b>
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q4) To make your website mobile friendly, you can make your website ?
+Category: Main
+ 
+You entered correct answer : A) Responsive
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q5) Which of the following is true about Javascript ?
+Category: Main
+ 
+You entered correct answer : B) It is client side scripting language
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q6) Which of the following is true about PHP ?
+Category: Main
+ 
+You entered correct answer : A) It is a server side scripting language
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q7) Which of the following statements is true ?
+Category: Main
+ 
+You entered correct answer : C) a and b
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q8) What is the correct HTML for creating a hyperlink ?
+Category: Main
+ 
+You entered correct answer : C) <a href="http://www.example.com">example</a>
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q9) What's so great about XML ?
+Category: Main
+ 
+You entered correct answer : D) Both A & B
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q10) What is the correct HTML for inserting an image ?
+Category: Main
+ 
+You entered correct answer : C) <img src="image.gif" alt="MyImage" />
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q11) What is the correct HTML for referring to an external style sheet ?
+Category: Main
+ 
+You entered correct answer : C) <link rel="stylesheet" type="text/css" href="mystyle.css">
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q12) The element <em> of HTML defines ?
+Category: Main
+ 
+You entered correct answer : D) Emphasized text
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q13) The number of attributes required for <div> element, is/are ?
+Category: Main
+ 
+You entered correct answer : A) 0
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+
+							 +-----------------------------------------------+
+							 |                  Score Card                   |
+							 |-----------------------+-----------------------|
+							 |      Basic Round      |      Main Round       |
+							 +-----------------------|-----------------------+
+							 |          3/3          |         10/10          |
+							 +-----------------------+-----------------------+
