@@ -1,0 +1,6 @@
+Subject   Basic   Main
+RMP         3       9
+MCP         2       6
+Android     3       7
+IGP         3       8
+iOS         2       5
