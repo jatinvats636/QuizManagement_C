@@ -1,0 +1,134 @@
+Q1) Android Is Developed By ?
+Category: Basic
+ 
+You entered correct answer : D) Android Inc
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q2) Android Web Browser Is Based On ?
+Category: Basic
+ 
+You entered correct answer : B) Open-source Webkit
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q3) Which Media Format Is Not Supported By Android ?
+Category: Basic
+ 
+You entered correct answer : B) AVI
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q4) Which Code Used By Android Is Not A Open Source ?
+Category: Main
+ 
+You entered     : A) Video Driver
+Correct answer  : B) WiFi Driver
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q5) What Are The Functionalities In AsyncTask In Android ?
+Category: Main
+ 
+You entered     : A) OnPreExecution()
+Correct answer  : B) OnPostExecution()
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q6) View Pager Is Used For ?
+Category: Main
+ 
+You entered     : A) Swiping Activities
+Correct answer  : B) Swiping Fragments
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q7) Which Programming Language Is Used For Android Application Development ?
+Category: Main
+ 
+You entered     : A) NodeJs
+Correct answer  : D) Java
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q8) Adb Stands For ?
+Category: Main
+ 
+You entered correct answer : A) Android Debug Bridge.
+  
+1 mark for correct answer.
+
+######################################################################################################################################################################
+
+Q9) What is an interface in android ?
+Category: Main
+ 
+You entered     : A) Interface is a class.
+Correct answer  : B) Interface acts as a bridge between class and the outside world.
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q10) Android is based on Linux for the following reason ?
+Category: Main
+ 
+You entered     : A) Security
+Correct answer  : D) All of these 
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q11) When developing for the Android OS, Java bytecode is compiled into what ?
+Category: Main
+ 
+You entered     : A) Java source code
+Correct answer  : C) Dalvik byte code
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q12) What Activity method you use to retrieve a reference to an Android view by using the id attribute of a resource XML ?
+Category: Main
+ 
+You entered     : A) findViewByReference(int id);
+Correct answer  : B) findViewById(int id)
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+Q13) What was the first phone released that ran the Android OS? 	
+Category: Main
+ 
+You entered     : A) Google gPhone
+Correct answer  : B) T-Mobile G1 
+ 
+You get 0 marks for wrong answer.
+
+######################################################################################################################################################################
+
+
+							 +-----------------------------------------------+
+							 |                  Score Card                   |
+							 |-----------------------+-----------------------|
+							 |      Basic Round      |      Main Round       |
+							 +-----------------------|-----------------------+
+							 |          3/3          |         1/10          |
+							 +-----------------------+-----------------------+
