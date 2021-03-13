@@ -1,0 +1,116 @@
+Q1) Which keyword is used to create constants in swift?
+Category: Basic
+ 
+You entered     : A) Conts
+Correct answer  : B) Let
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q2) We can return multiple values in swift from function by using?
+Category: Main
+ 
+You entered     : A) Array
+Correct answer  : B) Tuple
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q3) For unwrapping value inside optional what should we use?
+Category: Main
+ 
+You entered correct answer : A) ?
+  
+1 mark for correct answer.
+
+#######################################################################################
+
+Q4) When this code is executed, what value will num have? let num = UInt.min
+Category: Main
+ 
+You entered     : A) 16,777,216
+Correct answer  : D) 0
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q5) Which of the following framework is not used in iOS ?
+Category: Main
+ 
+You entered     : A) UIKit Framework
+Correct answer  : B) AppKit Framework
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q6) In swift language by default the members of class are ..?
+Category: Main
+ 
+You entered     : A) private
+Correct answer  : C) public
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q7) ARC stands for _ _ _ _ _.
+Category: Main
+ 
+You entered     : A) Automatic Referenced Counting
+Correct answer  : B) Automatic Reference Counting
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q8) What output will be produced by the code? for i in 1...3 { print(i) }   
+Category: Main    
+ 
+You entered correct answer : A) 1,2,3
+  
+1 mark for correct answer.
+
+#######################################################################################
+
+Q9) What would be used for safe casting and to return nil if failed?
+Category: Main
+ 
+You entered     : A) !as!
+Correct answer  : D) as?      
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+Q10) When this code is executed, what will the numbers constant contain? let numbers = [1, 2, 3].map { [$0, $0] }
+Category: Main
+ 
+You entered     : A) [1, 2, 3]
+Correct answer  : B) [[1, 1], [2, 2], [3, 3]]
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
+
+##################################
+# Your total score :-
+#
+# 2 out of 10 in Basic
+#
+##################################
+
+
+
+##################################
+# Your highest score :-
+#
+#  out of 10 in Basic
+#
+##################################
+
+
