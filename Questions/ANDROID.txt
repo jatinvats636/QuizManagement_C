@@ -1,0 +1,329 @@
+Android Is Developed By ?
+
+A) Apple
+B) Microsoft
+C) Google
+D) Android Inc
+
+D) Android Inc
+Category: Basic
+
+Android Web Browser Is Based On ?
+
+A) Chrome
+B) Open-source Webkit
+C) Safari
+D) Firefox
+
+B) Open-source Webkit
+Category: Basic
+
+Which Media Format Is Not Supported By Android ?
+
+A) MP4
+B) AVI
+C) MIDI
+D) MPEG
+
+B) AVI
+Category: Basic
+
+In Which Directory XML Layout Files Are Stored ?
+
+A) /assets
+B) /src
+C) /res/values
+D) /res/layout
+
+D) /res/layout
+Category: Main
+
+Which Code Used By Android Is Not A Open Source ?
+
+A) Video Driver
+B) WiFi Driver
+C) Device Driver
+D) Bluetooth Driver
+
+B) WiFi Driver
+Category: Main
+
+How Many Levels Of Securities Are In Android ?
+
+A) Android Level Security
+B) App And Kernel Level Security
+C) Java Level Security
+D) None Of The Above
+
+B) App And Kernel Level Security
+Category: Main
+
+Which Of The Following Does Not Belong To Transitions ?
+
+A) ViewFlipper
+B) ViewAnimator
+C) ViewSwitcher
+D) ViewSlider
+
+D) ViewSlider
+Category: Main
+
+What Are The Functionalities In AsyncTask In Android ?
+
+A) OnPreExecution()
+B) OnPostExecution()
+C) DoInBackground()
+D) OnProgressUpdate()
+
+B) OnPostExecution()
+Category: Main
+
+What Does AAPT Stands For ?
+
+A) Android Asset Processing Tool.
+B) Android Asset Providing Tool.
+C) Android Asset Packaging Tool.
+D) Android Asset Packaging Technique.
+
+C) Android Asset Packaging Tool.
+Category: Main
+
+Which Broadcast In Android Includes Information About Battery State Level ?
+
+A) Android.intent.action.BATTERY_CHANGED
+B) Android.intent.action.BATTERY_LOW
+C) Android.intent.action.BATTERY_OKAY
+D) Android.intent.action.CALL_BUTTON
+
+A) Android.intent.action.BATTERY_CHANGED
+Category: Main
+
+View Pager Is Used For ?
+
+A) Swiping Activities
+B) Swiping Fragments
+C) Paging Down List Items
+D) View Pager Is Not Supported By Android SDK
+
+B) Swiping Fragments
+Category: Main
+
+What Is JNI In Android ?
+
+A) Java Interface
+B) Java Native Interface
+C) Java Network Interface
+D) Image Editable Tool
+
+B) Java Native Interface
+Category: Main
+
+What Is LastKnownLocation In Android ?
+
+A) To Find The Last Location Of A Phone
+B) To Find Known Location Of A Phone
+C) To Find The Last Known Location Of A Phone.
+D) None Of The Above
+
+C) To Find The Last Known Location Of A Phone.
+Category: Main
+
+Which Programming Language Is Used For Android Application Development ?
+
+A) NodeJs
+B) PHP
+C) JSX
+D) Java
+
+D) Java
+Category: Main
+
+Action Bar Can Be Associated To ?
+
+A) Only Fragments
+B) Only Activities
+C) Both Activities And Fragments
+D) None Of The Above
+
+B) Only Activities
+Category: Main
+
+Android Is Based On Which Kernal ?
+
+A) Linux
+B) Windows
+C) Mac
+D) Redhat
+
+A) Linux
+Category: Main
+
+Adb Stands For ?
+
+A) Android Debug Bridge.
+B) Android Drive Bridge.
+C) Android Delete Bridge
+D) Android Destroy Bridge.
+
+A) Android Debug Bridge.
+Category: Main
+
+What is Manifest.xml in android ?
+
+A) It has information about layout in an application
+B) It has all the information about an application
+C) It has the information about activities in an application
+D) None of the above
+
+B) It has all the information about an application
+Category: Main
+
+In which technique, we can refresh the dynamic content in android ?
+
+A) Ajax
+B) Java
+C) Android
+D) None of These
+
+A) Ajax
+Category: Main
+
+What is an interface in android ?
+
+A) Interface is a class.
+B) Interface acts as a bridge between class and the outside world.
+C) Interface is a layout file
+D) All of the above
+    
+B) Interface acts as a bridge between class and the outside world.
+Category: Main
+
+What is the name of the program that converts Java byte code into Dalvik byte code ?
+
+A) Android Interpretive Compiler (AIC)
+B) Dalvik Converter
+C) Dex compiler
+D) Mobile Interpretive Compiler (MIC) 
+
+C) Dex compiler
+Category: Main
+
+Definition of Loader ?
+
+A) loaders make it easy to asynchronously load data in an activity or fragment
+B) loaders make it easy to synchronously load data in an activity or fragment
+C) loaders does not make it easy to asynchronously load data in an activity or fragment
+D) None of the above
+
+A) loaders make it easy to asynchronously load data in an activity or fragment
+Category: Main
+
+Android is based on Linux for the following reason ?
+
+A) Security
+B) Portability
+C) Networking
+D) All of these 
+    
+D) All of these
+Category: Main
+    
+Which among the following are part of "Application" layer of Android Architecture ?
+
+A) Contacts
+B) Browser
+C) Phone
+D) All of these 
+
+D) All of these
+Category: Main
+
+When contentProvider would be activated ?
+
+A) Using Intent
+B) Using SQLite
+C) Using ContentResolver
+D) None 
+
+C) Using ContentResolver
+Category: Main
+
+Difference between android api and google api ?
+
+A) The Google API includes Google Maps and other Google-specific libraries. The Android one only includes core Android libraries
+B) The google API one only includes core android libraries. The Android includes Google Maps and other Google-specific libraries
+C) None of the above
+D) All of the above 
+
+A) The Google API includes Google Maps and other Google-specific libraries. The Android one only includes core Android libraries
+Category: Main
+   
+When developing for the Android OS, Java bytecode is compiled into what ?
+
+A) Java source code
+B) Dalvik application code
+C) Dalvik byte code
+D) C source code 
+
+C) Dalvik byte code
+Category: Main
+
+An activity can be thought of as corresponding to what ?
+
+A) A Java project
+B) A Java class
+C) A method call
+D) An object field 
+
+B) A Java class
+Category: Main
+
+DVM is developed by ?
+
+A) Linus Torvald
+B) Dennis Ritchie
+C) Dan Bornstein
+D) None of these 
+
+C) Dan Bornstein
+Category: Main
+
+What Activity method you use to retrieve a reference to an Android view by using the id attribute of a resource XML ?
+
+A) findViewByReference(int id);
+B) findViewById(int id)
+C) retrieveResourceById(int id)
+D) findViewById(String id) 
+
+B) findViewById(int id)
+Category: Main
+
+Android is licensed under which open source licensing license ? 	
+ 
+A) Gnu's GPL
+B) Apache/MIT 
+C) OSS
+D) Sourceforge
+
+B) Apache/MIT 
+Category: Main
+
+As an Android programmer, what version of Android should you use as your minimum development target ? 	
+
+A) Versions 1.6 or 2.0 
+B) Versions 1.0 or 1.1
+C) Versions 1.2 or 1.3 
+D) Versions 2.3 or 3.0
+
+A) Versions 1.6 or 2.0 
+Category: Main
+
+What was the first phone released that ran the Android OS? 	
+
+A) Google gPhone
+B) T-Mobile G1 
+C) Motorola Droid
+D) HTC Hero 
+
+B) T-Mobile G1
+Category: Main
