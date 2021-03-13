@@ -1,0 +1,330 @@
+What does HTML stands for ?
+
+A) Hypertext Machine language.
+B) Hypertext and links markup language.
+C) Hypertext Markup Language.
+D) Hightext machine language.
+
+C) Hypertext Markup Language.
+Category: Basic
+
+Which of the following HTML element is used for creating an unordered list?
+
+A) <li>
+B) <ol>
+C) <ul>
+D) <un>
+
+C) <ul>
+Category: Basic
+
+Which of the following HTML Elements is used for making any text bold ?
+
+A) <b>
+B) <p>
+C) <i>
+D) <br>
+
+A) <b>
+Category: Basic
+
+How is document type initialized in HTML5 ?
+
+A) </DOCTYPE HTML>
+B) </DOCTYPE HTML>
+C) </DOCTYPE html>
+D) <!DOCTYPE HTML>
+
+D) <!DOCTYPE HTML>
+Category: Main
+
+To make your website mobile friendly, you can make your website ?
+
+A) Responsive
+B) Reactive
+C) Fast Loading
+D) Light
+
+A) Responsive
+Category: Main
+
+What does CSS stand for ?
+
+A) Current Style Sheets
+B) Current Sheets Style
+C) Cascading Style Sheets
+D) Cascading Sheets Style
+
+C) Cascading Style Sheets
+Category: Main
+ 
+Which of the following statements is false ?
+
+A) You can make a website without using HTML
+B) You can make a website without using PHP
+C) You can make a website without using CSS
+D) You can make a website without using Javascript
+
+A) You can make a website without using HTML
+Category: Main
+ 
+What is WordPress ?
+
+A) It is a CMS (Content Management System)
+B) It is a software used to press text
+C) It is a text formatting software
+D) It is mail service
+
+A) It is a CMS (Content Management System)
+Category: Main
+ 
+Which of the following is true about Javascript ?
+
+A) It is a server side scripting language
+B) It is client side scripting language
+C) It is a Software
+D) It is a database
+
+B) It is client side scripting language
+Category: Main
+ 
+Which of the following is true about PHP ?
+
+A) It is a server side scripting language
+B) It is client side scripting language
+C) It is a Software
+D) It is a database
+
+A) It is a server side scripting language
+Category: Main
+ 
+Which of the following is true ?
+
+A) You need a server to host your website files
+B) You don’t need a server to host your website files
+C) You can create a website without using HTML
+D) You can’t create a website without a CMS
+
+A) You need a server to host your website files
+Category: Main
+ 
+Which of the following softwares could be used to build a website ?
+
+A) Power Point
+B) Excel
+C) Dream Weaver
+D) ERP
+
+C) Dream Weaver
+Category: Main
+ 
+Which of the following statements is false about hosting ?
+
+A) Shared hosting is cheaper than dedicated hosting
+B) Shared hosting is safer than dedicated hosting
+C) Dedicated hosting is safer than shared hosting
+D) Though more expensive than shared hosting, Dedicated hosting is more secure
+
+B) Shared hosting is safer than dedicated hosting
+Category: Main
+ 
+Which of the following statements is true ?
+
+A) The web designer shouldn’t just be concerned about the looks but also about user interface
+B) Usability is very important in web design
+C) a and b
+D) None of the above
+
+C) a and b
+Category: Main
+ 
+What is the preferred way for adding a background color in HTML ?
+
+A) <body background="yellow">
+B) <background>yellow</background>
+C) <body style="background-color:yellow">
+D) <background color="yellow">text<background>
+
+C) <body style="background-color:yellow">
+Category: Main
+ 
+What is the correct HTML for creating a hyperlink ?
+
+A) <a name="">A</a>
+B) <a>B</a>
+C) <a href="http://www.example.com">example</a>
+D) <a url="http://www.example.com">example</a>
+
+C) <a href="http://www.example.com">example</a>
+Category: Main
+ 
+How can you create an e-mail link ?
+
+A) <mail href="a@b">
+B) <mail>a@b</mail>
+C) <a href="a@b">
+D) <a href="mailto:a@b.com">
+
+D) <a href="mailto:a@b.com">
+Category: Main
+ 
+Which of the following JavaScript cannot do ?
+
+A) JavaScript can react to events
+B) JavaScript can manipulate HTML elements
+C) JavaScript can be use to validate data
+D) All of the Above
+
+D) All of the Above
+Category: Main
+ 
+What's so great about XML ?
+
+A) Easy data exchange
+B) High speed on network
+C) Only B is correct
+D) Both A & B
+
+D) Both A & B
+Category: Main
+ 
+Which is not a property of attribute Behaviour of <Marquee> tag ?
+
+A) alternate
+B) blur
+C) scroll
+D) slide
+
+B) blur
+Category: Main
+ 
+________ keyword is used to declare variables in javascript ?
+
+A) Var
+B) Dim
+C) String
+D) None of the above
+
+A) Var
+Category: Main
+ 
+When a JavaScript object is sent to Java, the runtime engine creates a Java wrapper of type ?
+
+A) ScriptObject
+B) JSObject
+C) JavaObject
+D) Jobject
+
+B) JSObject
+Category: Main
+ 
+What is the correct HTML for inserting an image ?
+
+A) <image src="image.gif" alt="MyImage" />
+B) <img href="image.gif" alt="MyImage" />
+C) <img src="image.gif" alt="MyImage" />
+D) <img alt="MyImage">image.gif
+
+C) <img src="image.gif" alt="MyImage" />
+Category: Main
+ 
+colspan=n can be added to only what tag ?
+
+A) <table>
+B) <td>
+C) <tr>
+D) <thead>
+
+B) <td>
+Category: Main
+ 
+What is the correct HTML for referring to an external style sheet ?
+
+A) <style src="mystyle.css">
+B) <stylesheet> mystyle.css <stylesheet>
+C) <link rel="stylesheet" type="text/css" href="mystyle.css">
+D) <style href="mystyle.css">
+
+C) <link rel="stylesheet" type="text/css" href="mystyle.css">
+Category: Main
+ 
+Where in an HTML document is the correct place to refer to an external style sheet ?
+
+A) At the top of the document
+B) At the end of the document
+C) In the section
+D) In the <head> section
+
+D) In the <head> section
+Category: Main
+ 
+Apart from <b> tag, what other tag makes text bold ?
+
+A) <fat>
+B) <strong>
+C) <black>
+D) <emp>
+
+B) <strong>
+Category: Main
+ 
+Inline CSS is applies a unique style over ?
+
+A) Single element
+B) Multiple elements
+C) Whole document
+D) Half document
+
+A) Single element
+Category: Main
+ 
+The HTML tag <pre> displays content in ?
+
+A) Preferred form text
+B) Preformatted text
+C) Pre-linked text
+D) Prepared text format
+
+B) Preformatted text
+Category: Main
+ 
+The element <em> of HTML defines ?
+
+A) Exponent mode text
+B) Empirical text
+C) Strong text
+D) Emphasized text
+
+D) Emphasized text
+Category: Main
+ 
+The number of attributes required for <div> element, is/are ?
+
+A) 0
+B) 1 
+C) 2
+D) 3
+
+A) 0
+Category: Main
+ 
+JavaScript is used for ?
+
+A) Image manipulation
+B) Form validation
+C) Dynamic changes in content
+D) All of the Above
+
+D) All of the Above
+Category: Main
+ 
+Element used in HTML to group related data in a form is known to be ?
+
+A) <fieldset>
+B) <fieldget>
+C) <fieldgroup>
+D) <groupfield>
+
+A) <fieldset>
+Category: Main
+ 
