@@ -1,0 +1,329 @@
+A previsualization tool used to outline and organize the sequence of events in a game ?
+
+A) Storyboard
+B) Simulator
+C) Multimedia
+D) Frame
+
+A) Storyboard
+Category: Basic
+
+A person who develops and tests computer programs ?
+
+A) Programmer
+B) Simulator
+C) Licensing
+D) Framer
+
+A) Programmer
+Category: Basic
+
+A complete screen, or the set of all the lements representing it ?
+
+A) MIDI
+B) Storyboard
+C) GUI
+D) Frame
+
+D) Frame
+Category: Basic
+
+The use of more than one medium for conveying information. Combined music and sound make a multimedia presentation ?
+
+A) GUI
+B) MIDI
+C) Frame
+D) Multimedia
+
+D) Multimedia
+Category: Main
+
+A program or device that enables a user to reproduce under test conditions events that could occur in reality ?
+
+A) Simulator
+B) Programmer
+C) Framer
+D) Licensor
+
+A) Simulator
+Category: Main
+
+Which member of the game design team writes the dialog for the characters, and develops the animation and scenarios that occur during game play ?
+
+A) IT specialist
+B) Game designer
+C) Programmer
+D) Sound engineer
+
+B) Game designer
+Category: Main
+
+Consider the following instructions: Move Forward Repeat Move Forward 10 times. Which two types of programming structures are included in this example ?
+
+A) Sequential and object-oriented
+B) Object-oriented and looping
+C) Sequential and looping
+D) Looping and selection
+
+C) Sequential and looping
+Category: Main
+
+Which type of software is most commonly used to create the 3D animations and motion graphics used in games ?
+
+A) Audio recording and editing applications
+B) Game design engines
+C) Operating systems
+D) Graphic design applications
+
+B) Game design engines
+Category: Main
+
+Which statement regarding methods is true ?
+
+A) Methods are functions used within an object class.
+B) Methods can operate outside an object.
+C) Methods can be applied to one instance of an object.
+D) Methods are the variables of an object.
+
+A) Methods are functions used within an object class.
+Category: Main
+
+Which programming element is used to provide a detailed description of an object's characteristics and specify what can be done with the object ?
+
+A) Instance
+B) Method
+C) Class
+D) Property
+
+C) Class
+Category: Main
+
+What is the first step in the game design process ?
+
+A) Create a prototype.
+B) Brainstorm ideas.
+C) Gather feedback.
+D) Create a storyboard.
+
+B) Brainstorm ideas.
+Category: Main
+
+A programmer needs to instruct an object in her program to move up when the up-arrow key is pressed. Which of the following must the programmer write to accomplish this ?
+
+A) A class
+B) A parameter
+C) An event-handler
+D) An argument
+
+C) An event-handler
+Category: Main
+
+Super Mario Brothers was the first computer game ?
+
+A) True
+B) False
+C) Maybe
+D) Can’t say
+
+B) False
+Category: Main
+
+The first video game consoles were sold in the late 1970s ?
+
+A) True
+B) False
+C) Maybe
+D) Can’t say
+
+A) True
+Category: Main
+
+Computer and video games may be adapted fron an existing game, activity, or event ?
+
+A) True
+B) False
+C) Maybe
+D) Can’t say
+
+A) True
+Category: Main
+
+Which of the following keyword is used for including the namespaces in the program in C# ?
+
+A) imports
+B) using
+C) exports
+D) None of the above.
+
+B) using
+Category: Main
+
+Which of the following converts a type to a byte value in C# ?
+
+A) ToSingle
+B) ToByte
+C) ToChar
+D) ToDateTime
+
+B) ToByte
+Category: Main
+
+CLR is the .Net equivalent of ?
+
+A) Java Virtual machine
+B) Common Language Runtime
+C) Common Type System
+D) Common Language Specification
+
+A) Java Virtual machine
+Category: Main
+
+The default scope for the members of an interface is ?
+
+A) private
+B) public
+C) protected
+D) internal
+
+B) public
+Category: Main
+
+Which of the following statements is incorrect about delegate ?
+
+A) Delegates are reference types
+B) Delegates are object-oriented
+C) Delegates are type-safe
+D) Only one can be called using a delegate
+
+D) Only one can be called using a delegate
+Category: Main
+
+The space required for structure variables is allocated on the stack ?
+
+A) True
+B) False
+C) Maybe
+D) Can’t say
+
+A) True
+Category: Main
+
+Which of the following is incorrect about constructors ?
+
+A) Defining of constructors can be implicit or explicit
+B) The calling of constructors is explicit
+C) Implicit constructors can be parameterized or parameterless
+D) Explicit constructors can be parameterized or parameterless
+
+C) Implicit constructors can be parameterized or parameterless
+Category: Main
+
+The data members of a class by default are ?
+
+A) protected, public
+B) private, public
+C) private
+D) public
+
+C) private
+Category: Main
+
+What is the value returned by function compareTo( ) if the invoking string is less than the string compared ?
+
+A) Zero
+B) A value of less than zero
+C) A value greater than zero
+D) None of the mentioned
+
+B) A value of less than zero
+Category: Main
+
+A piece of code that checks if the player is alive and has got enough bullets could look like this ?
+
+A) if ((health > 0) && (ammo > 0)) 
+B) if ((health > 0) || (ammo > 0)) 
+C) if ((health > 0) & (ammo > 0)) 
+D) if ((health > 0) | (ammo > 0))
+
+A) if ((health > 0) && (ammo > 0))
+Category: Main
+
+The statement: c_move (me,nullvector,vector(5*time_step,0,0),GLIDE) ?
+
+A) Moves the entity forward
+B) Moves the entity along the x axis
+C) Lets the entity glide along the floor
+D) Adds 5*time_step to the current speed of the entity
+
+B) Moves the entity along the x axis
+Category: Main
+
+An entity in our level can be controlled ?
+
+A) With an action assigned to it
+B) With a pointer
+C) With a function from another entity
+D) All of the above
+
+D) All of the above
+Category: Main
+
+If you want to move an entity upwards ?
+
+A) Increase its z coordinate
+B) Move it in the direction of its tilt angle
+C) You must use the c_move instruction
+D) You must reset its angles and then increase its z coordinate
+
+A) Increase its z coordinate
+Category: Main
+
+A panel button does not react on a mouse click. What can be the reason ?
+
+A) The button is not completely inside the panel area 
+B) The panel overlaps another panel with the same layer
+C) The button has no assigned function
+D) All of the above
+
+D) All of the above
+Category: Main
+
+What must be written in the script for displaying the image "image.tga" on the screen, without additional code ?
+
+A) BMAP* image = "image.tga";
+B) PANEL* p = { bmap = "image.tga"; flags = SHOW; }
+C) BMAP* image; PANEL* p = { bmap = image; flags = SHOW; }
+D) BMAP* image = "image.tga"; PANEL* p = { bmap = image; }
+
+B) PANEL* p = { bmap = "image.tga"; flags = SHOW; }
+Category: Main
+
+Struct’s data members are ___ by default ?
+
+A) Protected
+B) Public
+C) Private
+D) Default
+
+C) Private
+Category: Main
+
+Which of the following keywords is used to refer base class constructor to subclass constructor ?
+
+A) this
+B) static
+C) base
+D) extend
+
+C) base
+Category: Main
+
+Which of the following is the correct about interfaces in C# ?
+
+A) Interfaces are declared using the interface keyword
+B) Interface methods are public by default
+C) Both of the above
+D) None of the above
+
+C) Both of the above
+Category: Main
