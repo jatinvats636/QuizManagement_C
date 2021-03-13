@@ -1,0 +1,329 @@
+Several protocols for upper layers in bluetooth use ?
+
+A) UDP
+B) HSP
+C) ITC
+D) L2CAP
+
+D) L2CAP
+Category: Basic
+
+Protocols are set of rules to govern ?
+
+A) Communication
+B) Standard
+C) Metropolitan Communication
+D) Bandwidth
+
+A) Communication
+Category: Basic
+
+An internet is a ?
+
+A) Collection of WANS
+B) Network of networks
+C) Collection of LANS
+D) Collection of identical LANS and WANS
+
+B) Network of networks
+Category: Basic	
+
+Checksum is used in Internet by several protocols although not at the ?
+
+A) Session layer
+B) Transport layer
+C) Network layer
+D) Data link layer
+
+D) Data link layer
+Category: Main
+
+In version field of IPv4 header, when machine is using some other version of IPv4 then datagram is ?
+
+A) Discarded
+B) Accepted
+C) Interpreted
+D) Interpreted incorrectly
+
+A) Discarded
+Category: Main
+
+Network layer at source is responsible for creating a packet from data coming from another ?
+
+A) Station
+B) Link
+C) Node
+D) Protocol
+
+D) Protocol
+Category: Main
+
+Header of datagram in IPv4 has ?
+
+A) 0 to 20 bytes
+B) 20 to 40 bytes
+C) 20 to 60 bytes
+D) 20 to 80 bytes
+
+C) 20 to 60 bytes
+Category: Main
+
+In IPv4 layer, datagram is of ?
+
+A) Fixed length
+B) Variable length
+C) Global length
+D) Zero length
+
+B) Variable length
+Category: Main
+
+In IPv4, service type of service in header field, first 3 bits are called ?
+
+A) Type of service
+B) Code bits
+C) Sync bits
+D) Precedence bits
+
+D) Precedence bits
+Category: Main
+
+Which is a link layer protocol ?
+
+A) ARP
+B) TCP
+C) UDP
+D) HTTP
+
+B) TCP
+Category: Main
+
+Which protocol is commonly used to retrieve email from a mail server ?
+
+A) FTP
+B) IMAP
+C) HTML
+D) TELNET
+
+B) IMAP
+Category: Main
+
+The modulation technique used for mobile communication systems during world war II was ?
+
+A) Amplitude modulation
+B) Frequency modulation
+C) ASK
+D) FSK
+
+B) Frequency modulation
+Category: Main
+
+______introduced Frequency Modulation for mobile communication systems in 1935 ?
+
+A) Edwin Armstrong
+B) Albert Einstein
+C) Galileo Galilei
+D) David Bohm
+
+A) Edwin Armstrong
+Category: Main
+
+The early FM push-to-talk telephone systems were used in ?
+
+A) Simplex mode
+B) Half duplex mode
+C) Full duplex mode
+D) None of the above
+
+B) Half duplex mode
+Category: Main
+
+Paging systems were based on ?
+
+A) Simplex systems
+B) Half duplex systems
+C) Full duplex mode
+D) None of the above
+
+A) Simplex systems
+Category: Main
+
+MIN stands for ?
+
+A) Mobile Identification Number
+B) Mobile Internet
+C) Mobility In Network
+D) None of the above
+
+A) Mobile Identification Number
+Category: Main
+
+The process of transferring a mobile station from one base station to another is ?
+
+A) MSC
+B) Roamer
+C) Hand Off
+D) Forward Channel
+
+C) Hand Off
+Category: Main
+
+The 2G cellular network uses ?
+
+A) TDMA/FDD
+B) CDMA/FDD
+C) Digital modulation formats
+D) All of the above
+
+D) All of the above
+Category: Main
+
+2G CDMA standard – cdma one supports up to ?
+
+A) 8 users
+B) 64 users
+C) 32 users
+D) 116 users
+
+B) 64 users
+Category: Main
+
+3G W-CDMA is also known as ?
+
+A) UMTS
+B) DECT
+C) DCS-1800
+D) ETACS
+
+A) UMTS
+Category: Main
+
+Commonly used mode for 3G networks is ?
+
+A) TDMA
+B) FDMA
+C) TDD
+D) FDD
+
+D) FDD
+Category: Main
+
+The shape of the cellular region for maximum radio coverage is ?
+
+A) Circular
+B) Square
+C) Oval
+D) Hexagon
+
+D) Hexagon
+Category: Main
+
+TCP is a reliable protocol that incorporates ?
+
+A) Congestion control
+B) Flow control mechanisms
+C) Guarantees in-order delivery of data
+D) All of the above
+
+D) All of the above
+Category: Main
+
+Which of the following segments a TCP connection into a fixed part and a wireless part ?
+
+A) Indirect TCP
+B) Direct TCP
+C) Both a and b
+D) None of the above
+
+A) Indirect TCP
+Category: Main
+
+Which of the following is the base of most mobile communications ?
+
+A) GSM
+B) GPRS
+C) CDMA
+D) None of the above
+
+A) GSM
+Category: Main
+
+Which of the following allow the use of only some part of bandwidth ?
+
+A) TDMA
+B) FDMA
+C) Both a and b
+D) None of the above
+
+C) Both a and b
+Category: Main
+
+Which of the following services/service are defined within the bearer services ?
+
+A) Data transmission
+B) Forward error correction
+C) Flow control
+D) All of the above
+
+D) All of the above
+Category: Main
+
+Slow and fast hopping is used in ?
+
+A) FHSS
+B) GSM
+C) GPRS
+D) UMTS
+
+A) FHSS
+Category: Main
+
+Traffic channels in forward transmission of telephony, carrying digitized voice from the base station to the mobile stations are Channels 8 to 31 and ?
+
+A) 32 to 40
+B) 32 to 63
+C) 32 to 60
+D) 33 to 63
+
+D) 33 to 63
+Category: Main
+
+FDMA is the division of ?
+
+A) Time
+B) Phase
+C) Spectrum
+D) Amplitude
+
+C) Spectrum
+Category: Main
+
+A mobile station only communicates with one base station, in a ?
+
+A) Back Off
+B) Hard Handoff
+C) Soft Handoff
+D) Low Handoff
+
+B) Hard Handoff
+Category: Main
+
+Digital Advance Mobile Phone Service (D-AMPS) was designed to be backward-compatible with ?
+
+A) FDMA
+B) AMPS
+C) CDMA/CS
+D) FSK
+
+B) AMPS
+Category: Main
+
+Advanced Mobile Phone Service (AMPS) has a frequency reuse factor of ?
+
+A) 9
+B) 8
+C) 7
+D) 5
+
+C) 7
+Category: Main
