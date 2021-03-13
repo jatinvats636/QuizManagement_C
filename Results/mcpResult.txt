@@ -1,0 +1,10 @@
+Q1) Several protocols for upper layers in bluetooth use ?
+Category: Basic
+ 
+You entered     : A) UDP
+Correct answer  : D) L2CAP
+ 
+You get 0 marks for wrong answer.
+
+#######################################################################################
+
